@@ -2,14 +2,12 @@
 """
 Otobüs Bileti Fiyatı Uygulaması
 
-Kurallar:
 - Temel ücret = km * 2.5
 - 0-12 yaş: %50 indirim
 - 12-24 yaş: %25 indirim (12 dahil değil, 12'den büyük ve 24'e kadar)
 - 65 yaş üzeri (>65): %30 indirim
 - Mesafe > 100 km ise ek %20 indirim (yaş indiriminden sonra uygulanır)
 
-Not: Kenar durumlarında (ör. 12 yaş) bu uygulamada 12 yaş "0-12" grubuna dahil edildi.
 """
 
 
