@@ -9,7 +9,6 @@ final_notu
 notlari_gir()
 ortalam_hesapla()
 bilgileri_goster()
-
 """
 
 from typing import Optional
