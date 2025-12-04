@@ -58,8 +58,8 @@ class Student:
 
 
 def demo():
-    print('Örnek kullanım - Öğrenci oluşturuluyor ve notlar giriliyor')
-    s = Student('Ahmet', 'Yılmaz', 'S001')
+    print('Öğrenci oluştur&not gir')
+    s = Student('Cenk', 'Cetin', '0017')
     s.notlari_gir()
     s.bilgileri_goster()
 
