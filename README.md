@@ -58,8 +58,3 @@ Karmaşık görevleri planlayan, araç kullanan ve otonom hareket edebilen ajanl
 5. **🛡️ Qodo (Eski adıyla Codium)** - Bağlam farkındalığı yüksek kod inceleme (review) ve test oluşturma ajanı.
 
 
-
-
----
-
-### ⭐ Beğendiyseniz yıldız vermeyi unutmayın!
